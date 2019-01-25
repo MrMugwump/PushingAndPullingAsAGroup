@@ -3,6 +3,9 @@ public class PushAndPull {
         new PushAndPull();
     }
     private PushAndPull(){
-
+        printBen();
+    }
+    private void printBen(){
+        System.out.println("My name is Ben Bridenbaugh");
     }
 }
